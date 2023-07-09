@@ -1,0 +1,12 @@
+.logo__signature {
+    color: #FFF;
+    text-align: center;
+    font-size: 37px;
+    font-family: Outfit;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 17px;
+    text-transform: lowercase;
+    padding: 8.35px 0 8.35px -1px;
+    margin: 0;
+}

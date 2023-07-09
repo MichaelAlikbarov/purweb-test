@@ -1,0 +1,13 @@
+.about__subtitle {
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 397px;
+    margin: 0;
+    margin-left: 60px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}

@@ -1,0 +1,6 @@
+.footer__application-link {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 40px;
+}

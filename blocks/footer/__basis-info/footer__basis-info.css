@@ -1,0 +1,8 @@
+.footer__basis-info {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 40px 60px 0;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #444;
+    align-items: center;
+}

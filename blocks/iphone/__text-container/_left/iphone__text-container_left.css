@@ -1,0 +1,12 @@
+.iphone__text-container_left {
+    animation: text-center 5.5s infinite linear; 
+}
+
+@keyframes text-center{
+    0% {
+        transform: translateX(0)
+    }
+    100% {
+        transform: translateX(-50%)
+    }
+}

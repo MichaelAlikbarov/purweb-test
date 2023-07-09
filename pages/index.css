@@ -1,0 +1,96 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/inter.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__supernav/header__supernav.css);
+@import url(../blocks/header/__list/header__list.css);
+@import url(../blocks/header/__list-item/header__list-item.css);
+@import url(../blocks/header/__list-item/_active/header__list-item_active.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__basis/header__basis.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__image/logo__image.css);
+@import url(../blocks/logo/__image-container/logo__image-container.css);
+@import url(../blocks/logo/__signature/logo__signature.css);
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/__text/button__text.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/launch/launch.css);
+@import url(../blocks/launch/__info/launch__info.css);
+@import url(../blocks/launch/__title/launch__title.css);
+@import url(../blocks/launch/__subtitle/launch__subtitle.css);
+@import url(../blocks/launch/__image-container/launch__image-container.css);
+@import url(../blocks/launch/__img/launch__img.css);
+
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__subtitle/about__subtitle.css);
+@import url(../blocks/about/__item-subtitle/about__item-subtitle.css);
+@import url(../blocks/about/__cards/about__cards.css);
+@import url(../blocks/about/__card/about__card.css);
+@import url(../blocks/about/__card-title/about__card-title.css);
+@import url(../blocks/about/__card-subtitle/about__card-subtitle.css);
+@import url(../blocks/about/__card-img/about__card-img.css);
+
+@import url(../blocks/iphone/iphone.css);
+@import url(../blocks/iphone/__text-container/iphone__text-container.css);
+@import url(../blocks/iphone/__text-container/_right/iphone__text-container_right.css);
+@import url(../blocks/iphone/__text-container/_left/iphone__text-container_left.css);
+@import url(../blocks/iphone/__text-string/iphone__text-string.css);
+@import url(../blocks/iphone/__text-string/_up/iphone__text-string_up.css);
+@import url(../blocks/iphone/__text-string/_center/iphone__text-string_center.css);
+@import url(../blocks/iphone/__text-string/_downe/iphone__text-string_downe.css);
+
+@import url(../blocks/statistics/statistics.css);
+@import url(../blocks/statistics/__container/statistics__container.css);
+@import url(../blocks/statistics/__title/statistics__title.css);
+@import url(../blocks/statistics/__subtitle/statistics__subtitle.css);
+
+@import url(../blocks/motivation/motivation.css);
+@import url(../blocks/motivation/__container/motibation__container.css);
+@import url(../blocks/motivation/__tittle/motivation__title.css);
+@import url(../blocks/motivation/__subtitle/motivation__subtitle.css);
+@import url(../blocks/motivation/__item-subtitle/motivation__item-subtitle.css);
+
+@import url(../blocks/pages-links/pages-links.css);
+@import url(../blocks/pages-links/__container/pages-links__container.css);
+@import url(../blocks/pages-links/__big-link/pages-link__big-link.css);
+@import url(../blocks/pages-links/__small-link/pages-link__small-link.css);
+
+@import url(../blocks/conclusion/conclusion.css);
+@import url(../blocks/conclusion/__motivation/conclusion__motivation.css);
+@import url(../blocks/conclusion/__motivation-text/conclusion__motivation-text.css);
+@import url(../blocks/conclusion/__social-media/conclusion__social-media.css);
+@import url(../blocks/conclusion/__about/conclusion__about.css);
+@import url(../blocks/conclusion/__about-title/conclusion__about-title.css);
+@import url(../blocks/conclusion/__about-subtitle/conclusion__about-subtitle.css);
+@import url(../blocks/conclusion/__partners/conclusion__partners.css);
+
+@import url(../blocks/social-icons/social-icons.css);
+@import url(../blocks/social-icons/__img-facebook/social-icons__img-facebook.css);
+@import url(../blocks/social-icons/__img-instagram/social-icons__img-instagram.css);
+@import url(../blocks/social-icons/__img-twitter/social-icons__img-twitter.css);
+@import url(../blocks/social-icons/__img-tiktok/social-icons__img-tiktok.css);
+
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__basis-info/footer__basis-info.css);
+@import url(../blocks/footer/__legal-info/footer__legal-info.css);
+@import url(../blocks/footer/__supernav/footer__supernav.css);
+@import url(../blocks/footer/__item-supernav/footer__item-supernav.css);
+@import url(../blocks/footer/__application-link/footer__application-link.css);
+@import url(../blocks/footer/__item-application-link/footer__item-application.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__list-legal-info/footer__list-legal-info.css);
+@import url(../blocks/footer/__item-legal-info/footer__item-legal-info.css);
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+@import url(../blocks/popup/__container/popup__container.css);
+@import url(../blocks/popup/__form/popup__form.css);

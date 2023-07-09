@@ -1,0 +1,6 @@
+.header__basis {
+    padding: 7px 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

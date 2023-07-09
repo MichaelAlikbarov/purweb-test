@@ -1,0 +1,7 @@
+.footer__supernav {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-left: 126px;
+    margin-right: 126px;
+}

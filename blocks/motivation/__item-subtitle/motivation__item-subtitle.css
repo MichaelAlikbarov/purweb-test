@@ -1,0 +1,13 @@
+.motivation__item-subtitle {
+    display: block;
+    width: 386.483px;
+    height: 34.438px;
+    transform: rotate(-1.631deg);
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #A64CED;
+    position: relative;
+    z-index: -1;
+    top: -35px;
+    left: 135px;
+}

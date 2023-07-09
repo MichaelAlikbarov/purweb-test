@@ -1,0 +1,13 @@
+.about__item-subtitle {
+    width: 353.394px;
+    height: 34.438px;
+    transform: rotate(-1.693deg);
+    flex-shrink: 0;
+    border-radius: 30px;
+    background-color: #A64CED;
+    display: block;
+    position: relative;
+    top: -35px;
+    left: 55px;
+    z-index: -1;
+}

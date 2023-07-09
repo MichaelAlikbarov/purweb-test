@@ -1,0 +1,7 @@
+.iphone {
+    margin: 0 auto 100px;
+    background-image: url(../../images/Silver.png), url(../../images/smartphone.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}

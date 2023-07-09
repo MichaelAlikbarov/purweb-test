@@ -1,0 +1,13 @@
+.footer__item-supernav {
+    text-decoration: none;
+    color: var(--grayscale-07, #FFF);
+    text-align: center;
+
+    /* Subtitle/S5_Medium_20 */
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    flex-shrink: 0;
+}

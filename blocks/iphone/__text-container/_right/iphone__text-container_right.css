@@ -1,0 +1,12 @@
+.iphone__text-container_right {
+    animation: text 9.5s infinite linear; 
+}
+
+@keyframes text{
+    0% {
+        transform: translateX(0)
+    }
+    100% {
+        transform: translateX(60%)
+    }
+}

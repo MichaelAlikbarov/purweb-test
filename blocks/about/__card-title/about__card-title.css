@@ -1,0 +1,10 @@
+.about__card-title {
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 106%;
+    width: 300px;
+    margin: 0 auto 20px 0;
+}

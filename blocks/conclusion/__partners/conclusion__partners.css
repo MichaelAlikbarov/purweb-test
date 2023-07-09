@@ -1,0 +1,8 @@
+.conclusion__partners {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px; /*в макете - 90px */
+    margin: 100px 60px 0;
+    max-width: 1440px;
+}

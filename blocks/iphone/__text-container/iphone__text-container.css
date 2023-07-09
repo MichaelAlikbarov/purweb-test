@@ -1,0 +1,9 @@
+.iphone__text-container {
+    display: inline-flex;
+    gap: 20px;
+    position: relative;
+    z-index: -1;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    width: 2088px;
+}

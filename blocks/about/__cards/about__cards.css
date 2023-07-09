@@ -1,0 +1,13 @@
+.about__cards {
+    display: grid;
+    margin-top: 0;
+    margin-right: 124.99px;
+    margin-left: auto;
+    margin-bottom: 34px;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(2, auto);
+    gap: 70px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+}

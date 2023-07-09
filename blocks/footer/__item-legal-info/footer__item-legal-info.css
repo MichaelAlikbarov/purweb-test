@@ -1,0 +1,15 @@
+.footer__item-legal-info {
+    color: #B9B9B9;
+    text-align: right;
+    font-family: Outfit;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 140%;
+    text-decoration-line: underline;
+}
+
+/* Пока не оформлены реальные ссылки, имитируем возможность взаимодействовать с элементом */
+.footer__item-legal-info:hover {
+    cursor: pointer;
+}

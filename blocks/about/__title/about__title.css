@@ -1,0 +1,12 @@
+.about__title {
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 106%;
+
+    margin: 0 auto 80px 60px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}

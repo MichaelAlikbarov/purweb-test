@@ -1,0 +1,9 @@
+.page {
+    margin: 0 auto;
+    background-color: #181818;
+    max-width: 1400px;
+    font-family: 'Outfit', 'Arial', sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
