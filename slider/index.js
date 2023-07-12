@@ -1,4 +1,3 @@
-
 const rightButton = document.querySelector('.next');
 const leftButton = document.querySelector('.prev');
 const autoButtonOn = document.querySelector('.auto-on');
@@ -72,4 +71,11 @@ listItem.forEach((item, index) => {
     item.addEventListener('click', () => {
         curentsSlide(index+=1);
     })
+	const dotActive = document.querySelector('.active');
+	console.log(dotActive)
+	if (dotActive) {
+		dotActive.removeEventListener('click', () => {
+			curentsSlide(index+=1)
+		});
+	}
 })
